@@ -1,10 +1,10 @@
 amqp==5.1.1
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-asgiref==3.5.2
+asgiref==3.6.0
 async-timeout==4.0.2
-attrs==22.1.0
-autobahn==22.6.1
+attrs==22.2.0
+autobahn==23.1.2
 Automat==20.2.0
 backports.zoneinfo==0.2.1
 billiard==3.6.4.0
@@ -29,7 +29,7 @@ django-cors-headers==3.14.0
 django-environ==0.10.0
 django-js-asset==2.0.0
 django-redis==5.2.0
-django-storages==1.12.3
+django-storages==1.13.2
 djangorestframework==3.14.0
 gunicorn==20.1.0
 hyperlink==21.0.0
@@ -61,6 +61,6 @@ typing_extensions==4.3.0
 urllib3==1.26.11
 vine==5.0.0
 wcwidth==0.2.5
-whitenoise==6.2.0
+whitenoise==6.4.0
 wrapt==1.14.1
 zope.interface==5.4.0
